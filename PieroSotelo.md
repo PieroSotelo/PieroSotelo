@@ -4,6 +4,6 @@ aprender sobre inteligencia artificial, siendo así eh hecho diferentes proyecto
 como Paginas web, ChatBot y lo que es una página con HTML , mi lenguaje de programación favorito hasta 
 el momento es Java y Python, lo cual me gusta mucho tambien ambos ejecutarlos en Visual Studio Code.
 ## 📫 Contáctame
-- LinkedIn:Piero Jesus Sotelo Medrano
+- LinkedIn:[Piero Jesus Sotelo Medrano](https://www.linkedin.com/in/piero-jesus-sotelo-medrano-610b35359/)
 - Correo: piero.sotelo@vallegrande.edu.pe
 - Correo Personal: Pierojsm1512@gmail.com
