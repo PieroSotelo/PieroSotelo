@@ -80,6 +80,7 @@
 <p align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,figma,redis,github,html,java,js,linux,debian,ubuntu,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </a>
 </p>
 
